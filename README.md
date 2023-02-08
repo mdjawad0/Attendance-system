@@ -2,6 +2,7 @@
 
 **Steps to be followed:**
 
+
 **Step 1:**
 Install Python version 3 from 
 the official website as per your environment (Windows, Mac OS, Linux).
@@ -10,13 +11,21 @@ the official website as per your environment (Windows, Mac OS, Linux).
 Run the following commands to install the required libraries for the project:
  
 **pip install tk-tools**
+
 **pip install opencv-contrib-python**
+
 **pip install datetime**
+
 **pip install pytest-shutil**
+
 **pip install python-csv**
+
 **pip install numpy**
+
 **pip install pillow**
+
 **pip install pandas**
+
 **pip install times**
 
 **Step 3:**

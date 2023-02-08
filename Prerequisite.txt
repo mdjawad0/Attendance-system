@@ -1,4 +1,4 @@
-Install All the modules mentioned below 
+Install all the libraries mentioned below:
 
 pip install tk-tools
 pip install opencv-contrib-python
